@@ -1,13 +1,13 @@
 const Users = {
-  "Priyankaa250": {
-    name: "Priyanka Ramachandran",
+  "UmangJain": {
+    name: "Umang Jain",
     branch: "IT",
     description:
-      "Exploring web and expanding my knowledge by learning innovative concepts, skills and technologies.",
+      "Enjoying",
     links: {
-      github: "https://github.com/Priyankaa2503",
-      instagram: "https://instagram.com/priyankaa__25",
-      linkedin: "https://www.linkedin.com/in/priyanka2503/",
+      github: "https://github.com/Umangjain712",
+      instagram: "https://instagram.com/Umangjain712",
+      linkedin: "https://www.linkedin.com/in/UmangJain/",
       portfolio: "",
     },
   },
